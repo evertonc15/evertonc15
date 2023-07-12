@@ -1,12 +1,9 @@
-Eu sou Everton Candido.
- 
-Estudante de Programação.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
- Faculdade Católica da Paraíba| Ciência da Computação
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=28&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+Everton+Candido.;Moro+em+Cachoeira+dos+Índios,+PB;Estudante+De+Ciência+da+Computação;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-focado nos estudos de Back-end.
 
-<div>
+<div align="center">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evertonc15&show_icons=true&theme=tokyonight"/> 
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonc15&layout=compact&theme=tokyonight"/>
 </div>
@@ -21,6 +18,8 @@ focado nos estudos de Back-end.
 <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=green&labelColor=green"/>
+<img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)"/>
 
 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 </div>
