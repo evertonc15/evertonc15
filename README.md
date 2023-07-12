@@ -7,8 +7,8 @@ Estudante de Programação.
 focado nos estudos de Back-end.
 
 <div>
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=evertonc15&show_icons=true&theme=tokyonight"/> 
- <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonc15&layout=compact&theme=tokyonight"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=evertonc15&show_icons=true&theme=tokyonight"/> 
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonc15&layout=compact&theme=tokyonight"/>
 </div>
 
 ###  Contatos:
