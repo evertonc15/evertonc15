@@ -6,10 +6,9 @@ Estudante de Programação.
 
 focado nos estudos de Back-end.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonc15&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonc15&layout=compact&theme=tokyonight"/>
-</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonc15&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonc15&layout=compact&theme=tokyonight"/>
+
 
 ###  Contatos:
 <a href = "mailto:everton.ci@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
