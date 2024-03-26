@@ -29,6 +29,7 @@
 <img align="center" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117"/>
 <img align="center" src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40"/>
+<img align="center" src="https://img.shields.io/badge/mysql-008CC1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
           
           
